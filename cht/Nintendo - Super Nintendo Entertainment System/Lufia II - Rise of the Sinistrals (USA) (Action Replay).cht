@@ -1,4 +1,4 @@
-cheats = 48 
+cheats = 49 
 
 cheat0_desc = "Increase Stats By Choosing Equip Strongest"
 cheat0_code = "008020FF"
@@ -192,3 +192,6 @@ cheat47_desc = "All Warps"
 cheat47_code = "7E097BFF+7E097CFF+7E097DFF+7E097EFF+7E097FFF+7E0980FF+7E0981FF+7E0982FF+7E0983FF+7E0986FF+7E0988FF+7E0989FF+7E098AFF+7E098BFF+7E098CFF+7E098DFF+7E098EFF+7E098FFF+7E0990FF+7E0991FF+7E0992FF+7E0996FF"
 cheat47_enable = false 
 
+cheat47_desc = "Item Drop"
+cheat47_code = "81FB5580+81FB560D"
+cheat47_enable = false
